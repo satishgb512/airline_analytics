@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/61b3c659-6415-431d-b597-1cbdec97ece8/resourcegroups/satish-rg/providers/Microsoft.DataFactory/factories/satishadf20240615/integrationruntimes/integrationRuntime1",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
