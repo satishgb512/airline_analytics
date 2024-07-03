@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "airline-data-analytics-adf"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"AzureKeyVault_LS_properties_typeProperties_baseUrl": {
 			"value": "https://airlinekv.vault.azure.net/"
 		},
