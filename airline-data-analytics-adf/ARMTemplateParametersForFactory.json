@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "airline-data-analytics-adf"
+		},
+		"AzureKeyVault_LS_properties_typeProperties_baseUrl": {
+			"value": "https://airlinekv.vault.azure.net/"
+		},
+		"integrationRuntime1_properties_typeProperties_linkedInfo_resourceId": {
+			"value": "/subscriptions/61b3c659-6415-431d-b597-1cbdec97ece8/resourcegroups/satish-rg/providers/Microsoft.DataFactory/factories/satishadf20240615/integrationruntimes/integrationRuntime1"
+		},
+		"PostgreSql_LS_properties_typeProperties_server": {
+			"value": "localhost"
+		},
+		"PostgreSql_LS_properties_typeProperties_database": {
+			"value": "airline_db"
+		},
+		"PostgreSql_LS_properties_typeProperties_username": {
+			"value": "satish"
+		}
+	}
+}
