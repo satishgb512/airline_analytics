@@ -1,0 +1,9 @@
+{
+	"name": "airline-data-analytics-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c143356-b8e4-4118-9fba-6087679a7c9c",
+		"tenantId": "cd58681b-801c-4391-91d0-aa0c5d5f5263"
+	}
+}
