@@ -23,7 +23,7 @@
 					"type": "Expression"
 				},
 				"folderPath": {
-					"value": "@(concat(dataset().schemaname,'/',dataset().table_name))",
+					"value": "(concat(dataset().schemaname,'/',dataset().table_name))",
 					"type": "Expression"
 				},
 				"container": "airlineraw"
